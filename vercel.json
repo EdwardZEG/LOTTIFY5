@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      { "source": "/inicio", "destination": "/inicio" },
+      { "source": "/juego", "destination": "/juego" },
+      { "source": "/vocabulario", "destination": "/vocabulario" },
+      { "source": "/nosotros", "destination": "/nosotros" }
+    ]
+}
+  
